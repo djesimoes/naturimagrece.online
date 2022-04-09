@@ -15,8 +15,7 @@ body {
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	width: 100vw;
-	height: 100vh;
+	width: 100%;
 	background: url("fundo.jpg") no-repeat fixed center;
 	background-size: cover;
 }
